@@ -4,6 +4,7 @@
 - E-mail: f.c.hsu0723@gmail.com
 - Personal Website: https://fchsu.github.io/Personal-website/index.html
 - GitHub: https://github.com/fchsu
+<hr>
 
 ## SKILL
 
@@ -33,6 +34,7 @@
 
 - 使用 Git 版本控制，建立 branch 將開發中功能與 master 分開，開發完成後再 merge 回去。
 - 在 GitHub 上建立數據庫，完成遠端版本控制。
+<hr>
 
 ## WORKS
 
@@ -50,7 +52,7 @@
 
 - 利用 local storage 紀錄使用者數據於瀏覽器端，並能依需要逐條刪除。
 
-###<a href='https://fchsu.github.io/JS-AJAX/JS-HW-opendata.html' target='_blank'>高雄旅遊資訊 (JavaScript / AJAX)</a>
+### <a href='https://fchsu.github.io/JS-AJAX/JS-HW-opendata.html' target='_blank'>高雄旅遊資訊 (JavaScript / AJAX)</a>
 
 - 以 AJAX 方式撈取遠端資料，並以單頁最多8筆的多頁方式呈現在網頁上。
 - 使用原生 JavaScript 做出燈箱效果。
@@ -66,11 +68,13 @@
 - 添加畫面捲軸滾動效果，搭配進度條動畫，讓網頁更具可看性。
 - 背景視差滾動特效
 - 以 iPhone 手機為斷點，製作響應式網頁。
+<hr>
 
 ## FUTURE
 
 - 更深入了解原生 JavaScript / ES6 的運作原理。
 - 朝 JavaScript 框加前進，目前已有接觸過 Vue.js。
+<hr>
 
 ## ABOUT ME
 
