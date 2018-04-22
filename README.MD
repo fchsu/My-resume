@@ -1,6 +1,8 @@
 # 許峰誠 (Gavin Hsu)
 
 - Location: Kaohsiung, Taiwan
+- Birthday: 1987/07/23
+- Education: 中原大學 電機工程 / 中央大學 光電所
 - E-mail: f.c.hsu0723@gmail.com
 - Personal Website: https://fchsu.github.io/Personal-website/index.html
 - GitHub: https://github.com/fchsu
