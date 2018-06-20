@@ -10,14 +10,11 @@
 
 ## SKILL
 
-### HTML / CSS / jQuery
+### HTML / CSS / jQuery / RWD
 
 - 能以 HTML 建立語意化的網頁架構。
 - 加上 CSS 完成網頁排版並賦予樣式。
 - 再搭配 jQuery 操作DOM 節點，實現網頁互動效果。
-
-### RWD
-
 - 不依賴 Framework，全手刻完成網頁響應式設計。
 - 了解 hover 與 touch 的不同。
 
@@ -45,6 +42,12 @@
 
 ## WORKS
 
+### <a href='https://fchsu.github.io/No2.filter/dist/#/travelContent' target='_blank'>高雄旅遊資訊網 (Vue.js)</a>
+
+- 網頁使用 Vue 框架，實作 Vue-cli、Vue-router 功能。
+- 使用 axios 抓取資料，並作資料篩選功能
+- RWD 功能
+
 ### <a href='https://fchsu.github.io/jQuery-test/HW_jQ.html' target='_blank'>使用html做網站 (jQuery)</a>
 
 - HTML / CSS 完成網頁畫面渲染。
@@ -63,12 +66,6 @@
 
 - 以 AJAX 方式撈取遠端資料，搭配 Google map API 實現在地圖上標籤位置與顯示資訊視窗。
 - 以 iPhone 手機為斷點，製作響應式網頁。
-
-### <a href='https://fchsu.github.io/No2.filter/dist/#/travelContent' target='_blank'>高雄旅遊資訊網 (Vue.js)</a>
-
-- 網頁使用 Vue 框架，實作 Vue-cli、Vue-router 功能。
-- 使用 axios 抓取資料，並作資料篩選功能
-- RWD 功能
 
 ### <a href='https://fchsu.github.io/Personal-website/index.html' target='_blank'>Gavin's resume</a>
 	
