@@ -32,6 +32,11 @@
 - 運用 ES6 基礎語法 (let 與 const) 避免汙染全域變數，及以箭頭函式得到簡潔的程式碼。
 - 串接 google map API，完成地圖顯示、位置標記與資訊視窗開闔。 
 
+### Vue.js
+
+- 實作過 Vue 框架。
+- 運用基本指令、組件、Vue-cli、Vue-router 完成網頁。
+
 ### Git / GitHub
 
 - 使用 Git 版本控制，建立 branch 將開發中功能與 master 分開，開發完成後再 merge 回去。
@@ -54,15 +59,16 @@
 
 - 利用 local storage 紀錄使用者數據於瀏覽器端，並能依需要逐條刪除。
 
-### <a href='https://fchsu.github.io/JS-AJAX/JS-HW-opendata.html' target='_blank'>高雄旅遊資訊 (JavaScript / AJAX)</a>
-
-- 以 AJAX 方式撈取遠端資料，並以單頁最多8筆的多頁方式呈現在網頁上。
-- 使用原生 JavaScript 做出燈箱效果。
-
 ### <a href='https://fchsu.github.io/JS-opendata/index.html' target='_blank'>高雄市固定式違規照相設備設置地點 (AJAX / Google map API / Git & Github)</a>
 
 - 以 AJAX 方式撈取遠端資料，搭配 Google map API 實現在地圖上標籤位置與顯示資訊視窗。
 - 以 iPhone 手機為斷點，製作響應式網頁。
+
+### <a href='https://fchsu.github.io/No2.filter/dist/#/travelContent' target='_blank'>高雄旅遊資訊網 (Vue.js)</a>
+
+- 網頁使用 Vue 框架，實作 Vue-cli、Vue-router 功能。
+- 使用 axios 抓取資料，並作資料篩選功能
+- RWD 功能
 
 ### <a href='https://fchsu.github.io/Personal-website/index.html' target='_blank'>Gavin's resume</a>
 	
@@ -75,10 +81,10 @@
 ## FUTURE
 
 - 更深入了解原生 JavaScript / ES6 的運作原理。
-- 朝 JavaScript 框加前進，目前已有接觸過 Vue.js。
+- 朝 JavaScript 框加前進，目前正在深入研究 Vue.js。
 <hr>
 
 ## ABOUT ME
 
-- 年過三十發現對前端有明顯興趣，下班後再累也要擠出時間來摸兩下程式，就這樣從自學開始累積自己前端領域的能力。
+- 對前端有明顯興趣，喜歡網頁從無到有畫面都自己手敲出來的成就感，下班後再累也要擠出時間來摸兩下程式，就這樣從自學開始累積自己前端領域的能力。
 - 本身為五年光通訊產業工作經驗。
