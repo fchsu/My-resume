@@ -10,13 +10,12 @@
 
 ## SKILL
 
-### HTML / CSS / jQuery / RWD
+### HTML / CSS (Sass) / jQuery / RWD (Bootstrap)
 
-- 能以 HTML 建立語意化的網頁架構。
-- 加上 CSS 完成網頁排版並賦予樣式。
+- 能以 HTML 建立語意化的網頁架構，CSS 完成網頁排版並賦予樣式。
+- 使用 Sass 設定 css 變數，讓更改樣式更簡單。
 - 再搭配 jQuery 操作DOM 節點，實現網頁互動效果。
-- 不依賴 Framework，全手刻完成網頁響應式設計。
-- 了解 hover 與 touch 的不同。
+- 能手刻，也能使用 Bootstrap 完成網頁響應式設計。
 
 ### JavaScript / Local Storage / AJAX
 
@@ -32,7 +31,7 @@
 ### Vue.js
 
 - 實作過 Vue 框架。
-- 運用基本指令、組件、Vue-cli、Vue-router 完成網頁。
+- 運用基本指令、Components、Vue-cli、Vue-router 完成網頁。
 
 ### Git / GitHub
 
@@ -48,37 +47,33 @@
 - 使用 axios 抓取資料，並作資料篩選功能
 - RWD 功能
 
-### <a href='https://fchsu.github.io/jQuery-test/HW_jQ.html' target='_blank'>使用html做網站 (jQuery)</a>
-
-- HTML / CSS 完成網頁畫面渲染。
-- 使用 jQuery 的 DOM 節點操作與第三方插件，完成圖片輪播與燈箱效果。
-
-### <a href='https://fchsu.github.io/RWD-test/index.html' target='_blank'>六角西餐廳 (RWD)</a>
-
-- 不依賴 Framework，全手刻進行響應式網頁設計。
-- 因滑鼠游標與手指觸控的操作不同，程式碼中添加開關 hover 的指令。
-
-### <a href='https://fchsu.github.io/JS-localStorage/JS-HW-BMI.html' target='_blank'>BMI caculator (JavaScript)</a>
-
-- 利用 local storage 紀錄使用者數據於瀏覽器端，並能依需要逐條刪除。
-
-### <a href='https://fchsu.github.io/JS-opendata/index.html' target='_blank'>高雄市固定式違規照相設備設置地點 (AJAX / Google map API / Git & Github)</a>
-
-- 以 AJAX 方式撈取遠端資料，搭配 Google map API 實現在地圖上標籤位置與顯示資訊視窗。
-- 以 iPhone 手機為斷點，製作響應式網頁。
-
 ### <a href='https://fchsu.github.io/Personal-website/index.html' target='_blank'>Gavin's resume</a>
 	
 - 製作滿版封面，隨瀏覽器尺寸改變畫面大小。
 - 添加畫面捲軸滾動效果，搭配進度條動畫，讓網頁更具可看性。
 - 背景視差滾動特效
 - 以 iPhone 手機為斷點，製作響應式網頁。
+
+### <a href='https://fchsu.github.io/JS-opendata/index.html' target='_blank'>高雄市固定式違規照相設備設置地點 (AJAX / Google map API / Git & Github)</a>
+
+- 以 AJAX 方式撈取遠端資料，搭配 Google map API 實現在地圖上標籤位置與顯示資訊視窗。
+- 以 iPhone 手機為斷點，製作響應式網頁。
+
+### <a href='https://fchsu.github.io/JS-localStorage/JS-HW-BMI.html' target='_blank'>BMI caculator (JavaScript)</a>
+
+- 利用 local storage 紀錄使用者數據於瀏覽器端，並能依需要逐條刪除。
+
+### <a href='https://fchsu.github.io/jQuery-test/HW_jQ.html' target='_blank'>使用html做網站 (jQuery)</a>
+
+- HTML / CSS 完成網頁畫面渲染。
+- 使用 jQuery 的 DOM 節點操作與第三方插件，完成圖片輪播與燈箱效果。
 <hr>
 
 ## FUTURE
 
-- 更深入了解原生 JavaScript / ES6 的運作原理。
-- 朝 JavaScript 框加前進，目前正在深入研究 Vue.js。
+1. 深入研究 JavaScript 框架，目前以 Vue.js 為主。
+1. 更熟悉使用 Webpack / Gulp 等工具。
+1. 研究使用其一後端語言 (PHP / ASP.NET / Node.js)。
 <hr>
 
 ## ABOUT ME
